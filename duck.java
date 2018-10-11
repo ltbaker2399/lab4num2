@@ -15,4 +15,8 @@ public class duck
     system.out.println("A duck can eat");
   }
 
+  public walk()
+  {
+    system.out.println("A duck can walk");
+  }
 }
